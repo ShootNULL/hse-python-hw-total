@@ -70,7 +70,7 @@ for ip in suspicious_ips.index:
 
 for r in results:
     if r["requests"] > 3:
-        print(f"⚠ Threat detected! Simulating block for IP {r['ip']}")
+        print(f"Threat detected! Simulating block for IP {r['ip']}")
 
 # ===============================
 # 5. Сохранение отчёта
