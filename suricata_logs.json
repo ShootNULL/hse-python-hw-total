@@ -1,0 +1,11 @@
+[
+ {"src_ip": "192.168.1.10", "event": "DNS query"},
+ {"src_ip": "192.168.1.10", "event": "DNS query"},
+ {"src_ip": "192.168.1.10", "event": "DNS query"},
+ {"src_ip": "8.8.8.8", "event": "DNS query"},
+ {"src_ip": "8.8.8.8", "event": "DNS query"},
+ {"src_ip": "45.33.32.156", "event": "DNS query"},
+ {"src_ip": "45.33.32.156", "event": "DNS query"},
+ {"src_ip": "45.33.32.156", "event": "DNS query"},
+ {"src_ip": "45.33.32.156", "event": "DNS query"}
+]
